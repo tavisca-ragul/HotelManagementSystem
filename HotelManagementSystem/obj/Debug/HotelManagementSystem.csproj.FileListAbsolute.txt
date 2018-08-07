@@ -95,3 +95,6 @@ C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\obj\
 C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
 C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.dll
 C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\bin\HotelManagementSystem.xml
+C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\bin\Swashbuckle.Core.dll
+C:\Users\rkrishnan\source\repos\HotelManagementSystem\HotelManagementSystem\bin\WebActivatorEx.dll
