@@ -70,6 +70,9 @@ namespace HotelManagementSystem.Controllers
                 if (!ModelState.IsValid)
                     return Content(HttpStatusCode.BadRequest, "Model state is invalid");
 
+                if (noOfRoomsBooking <= 0)
+                    return Content(HttpStatusCode.BadRequest, "Number of rooms booked should be greater than 0");
+
                 var hotelDetails = _hotels.SingleOrDefault(list => list.Id == id);
                 if (hotelDetails == null)
                     return Content(HttpStatusCode.NotFound, "Invalid Hotel ID");
